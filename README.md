@@ -5,6 +5,7 @@ This assignment will incentivize you to get familiar with the different GitHub w
 
 ##### Commit 1
 ##### Commit 2
+##### Commit 3
 
 ## Step 1 - Create a New Repository
 Using your personal GitHub account [create a public, empty GitHub repository](https://github.com/new) called `CS471WorkflowsHomeworkAssignment`.
